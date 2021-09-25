@@ -6,7 +6,7 @@
     <artifactId>sampleapp</artifactId>
     <packaging>war</packaging>
     <version>2.0</version>
-    <name>Vaadin Sampleapp example</name>
+    <name>Vaadin sampleapp example</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
